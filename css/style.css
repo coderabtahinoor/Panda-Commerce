@@ -1,0 +1,23 @@
+html{
+    scroll-behavior: smooth;
+} 
+.panda-btn-buy-now{
+    transition: 0.7s;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+.panda-btn-buy-now:hover{
+    background-image: linear-gradient(to bottom, #FF589B 100%, #ff4b92 0%);
+
+}
+.orange-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
